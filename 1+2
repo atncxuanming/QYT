@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
+
+
+print('1 + 2 的结果是：', sum([1, 2]))
