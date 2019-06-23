@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
+
+import random
+
+First_part = random.randint(1, 255)
+Second_part = random.randint(1, 255)
+Third_part = random.randint(1, 255)
+Fourth_part = random.randint(1, 255)
+
+print(str(First_part)+'.'+str(Second_part)+'.'+str(Third_part)+'.'+str(Fourth_part))
